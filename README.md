@@ -16,6 +16,7 @@ Las principales etapas son:
 - Métricas
 - Validación Cruzada
 
-![spot](https://github.com/user-attachments/assets/cf502be6-a030-42e5-8039-0f3149a0d86a)
+![sssssssss](https://github.com/user-attachments/assets/a20f8694-03dc-443f-a4dd-714dd0059d6c)
+
 
 
